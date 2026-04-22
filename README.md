@@ -6,7 +6,9 @@ The following examples illustrate different paradigms for integrating legal know
 This project builds upon the JurisMMA framework and JurisMM dataset introduced in [Multimodal Multi-Agent Empowered Legal Judgment Prediction](https://arxiv.org/abs/2601.12815).  
 本项目基于多模态多智能体赋能的法律判断预测中介绍的JurisMMA框架和JurisMM数据集。
 
-## Reference 
+## Reference
+
+```bibtex
 @inproceedings{kang2026multimodal,  
   title={Multimodal Multi-Agent Empowered Legal Judgment Prediction},  
   author={Kang, Zhaolu and Gong, Junhao and Chen, Qingxi and Zhang, Hao and Liu, Jiaxin and Fu, Rong and Feng,Zhiyuan and Wang, Yuan and Fong, Simon and Zhou, Kaiyue},  
