@@ -6,6 +6,11 @@ The following examples illustrate different paradigms for integrating legal know
 This project builds upon the JurisMMA framework and JurisMM dataset introduced in [Multimodal Multi-Agent Empowered Legal Judgment Prediction](https://arxiv.org/abs/2601.12815).  
 本项目基于多模态多智能体赋能的法律判断预测中介绍的JurisMMA框架和JurisMM数据集。
 
+## 2. AgentCourt
+This project is Simulating Court with Adversarial Evolvable Lawyer Agents introduced in [AgentCourt: Simulating Court with Adversarial Evolvable Lawyer Agents](https://aclanthology.org/2025.findings-acl.304.pdf)
+
+
+
 ## Reference
 
 ```bibtex
@@ -16,4 +21,13 @@ This project builds upon the JurisMMA framework and JurisMM dataset introduced i
   year={2026},  
   organization={IEEE}  
 }
+
+@inproceedings{chen2025agentcourt,
+  title={Agentcourt: Simulating court with adversarial evolvable lawyer agents},
+  author={Chen, Guhong and Fan, Liyang and Gong, Zihan and Xie, Nan and Li, Zixuan and Liu, Ziqiang and Li, Chengming and Qu, Qiang and Alinejad-Rokny, Hamid and Ni, Shiwen and others},
+  booktitle={Findings of the Association for Computational Linguistics: ACL 2025},
+  pages={5850--5865},
+  year={2025}
+}
+
 
