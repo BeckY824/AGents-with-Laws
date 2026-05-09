@@ -7,7 +7,7 @@ This project builds upon the JurisMMA framework and JurisMM dataset introduced i
 本项目基于多模态多智能体赋能的法律判断预测中介绍的JurisMMA框架和JurisMM数据集。
 
 ## 2. AgentCourt
-This project is Simulating Court with Adversarial Evolvable Lawyer Agents introduced in [AgentCourt: Simulating Court with Adversarial Evolvable Lawyer Agents](https://aclanthology.org/2025.findings-acl.304.pdf)
+This project is Simulating Court with Adversarial Evolvable Lawyer Agents introduced in [AgentCourt: Simulating Court with Adversarial Evolvable Lawyer Agents](https://aclanthology.org/2025.findings-acl.304.pdf).
 
 
 
