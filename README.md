@@ -11,7 +11,8 @@ This project is Simulating Court with Adversarial Evolvable Lawyer Agents introd
 
 
 # Experiment and Implementation
-
+⚠️ Notice: The codebase is currently incomplete and remains in an experimental stage, so it should not yet be considered a reliable reference. <br>
+⚠️ 注意：当前代码尚未完善，仍处于实验与尝试阶段，暂不具备参考意义。
 ## 1. Make a start Intake Agent Module（准入与授权模块的落地与工程实践）
 - Target Transform unstructured materials into structured JSON data to generate standardized legal documents (e.g., Power of Attorney).<br>
   将非结构化材料转化为结构化 JSON 数据，并生成标准化法律文书（如《授权委托书》）。
